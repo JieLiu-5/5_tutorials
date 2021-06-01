@@ -1,0 +1,3 @@
+/mnt/c/Users/LIUJI/Documents/2_research_community/5_tutorials/13 cmake/c++ make/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/LIUJI/Documents/2_research_community/5_tutorials/13 cmake/c++ make/build/CMakeFiles/Test_for_Cmake.dir
+/mnt/c/Users/LIUJI/Documents/2_research_community/5_tutorials/13 cmake/c++ make/build/CMakeFiles/edit_cache.dir

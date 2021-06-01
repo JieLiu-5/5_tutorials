@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/Test_for_Cmake.dir/src/main.cpp.o  -o Test_for_Cmake 
