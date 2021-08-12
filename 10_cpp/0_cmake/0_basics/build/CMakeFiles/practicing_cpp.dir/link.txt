@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/practicing_cpp.dir/src/functions.cpp.o CMakeFiles/practicing_cpp.dir/src/practicing_cpp.cpp.o  -o practicing_cpp 

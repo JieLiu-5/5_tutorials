@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_library.dir/src/test_library.cpp.o  -o test_library  -L/mnt/c/Users/LIUJI/Documents/2_research_community/5_tutorials/10_Cpp/0_cmake/1_test_libraty/../0_basics/build -Wl,-rpath,/mnt/c/Users/LIUJI/Documents/2_research_community/5_tutorials/10_Cpp/0_cmake/1_test_libraty/../0_basics/build -lfunctions 
