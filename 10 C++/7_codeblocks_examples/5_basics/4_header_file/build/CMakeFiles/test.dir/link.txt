@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/test.dir/src/functions.cpp.o CMakeFiles/test.dir/src/test.cpp.o  -o test  -L/home/dv/jliu/Localdisk/workspace/codeblocks/4_header_file/build -Wl,-rpath,/home/dv/jliu/Localdisk/workspace/codeblocks/4_header_file/build -ltestStudent 

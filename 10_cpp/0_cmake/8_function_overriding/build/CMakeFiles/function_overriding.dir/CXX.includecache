@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/LIUJI/Documents/0_research_community/5_tutorials/10_cpp/0_cmake/8_function_overriding/src/function_overriding.cpp
+iostream
+-
+

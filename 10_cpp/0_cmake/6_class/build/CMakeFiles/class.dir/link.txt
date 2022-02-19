@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/class.dir/src/class.cpp.o  -o class 

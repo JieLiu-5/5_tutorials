@@ -1,3 +1,0 @@
-/home/dv/jliu/Localdisk/workspace/codeblocks/4_header_file/build/CMakeFiles/rebuild_cache.dir
-/home/dv/jliu/Localdisk/workspace/codeblocks/4_header_file/build/CMakeFiles/test.dir
-/home/dv/jliu/Localdisk/workspace/codeblocks/4_header_file/build/CMakeFiles/edit_cache.dir

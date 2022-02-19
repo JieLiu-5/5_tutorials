@@ -1,7 +1,0 @@
-/mnt/sda2/jliu/workspace/codeblocks/4_1_shared_lib/build/CMakeFiles/install/strip.dir
-/mnt/sda2/jliu/workspace/codeblocks/4_1_shared_lib/build/CMakeFiles/edit_cache.dir
-/mnt/sda2/jliu/workspace/codeblocks/4_1_shared_lib/build/CMakeFiles/testStudent.dir
-/mnt/sda2/jliu/workspace/codeblocks/4_1_shared_lib/build/CMakeFiles/rebuild_cache.dir
-/mnt/sda2/jliu/workspace/codeblocks/4_1_shared_lib/build/CMakeFiles/list_install_components.dir
-/mnt/sda2/jliu/workspace/codeblocks/4_1_shared_lib/build/CMakeFiles/install/local.dir
-/mnt/sda2/jliu/workspace/codeblocks/4_1_shared_lib/build/CMakeFiles/install.dir

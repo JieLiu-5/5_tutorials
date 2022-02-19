@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/LIUJI/Documents/0_research_community/5_tutorials/10_cpp/0_cmake/10_cmake_test/src/cmake_test.cpp
+fstream
+-
+iostream
+-
+iomanip
+-
+math.h
+-
+algorithm
+-
+vector
+-
+/mnt/c/Users/LIUJI/Dropbox/0_headers_for_cpp/common_cpp_functions.h
+-
+
+/mnt/c/Users/LIUJI/Dropbox/0_headers_for_cpp/common_cpp_functions.h
+map
+-
+

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/LIUJI/Documents/0_research_community/5_tutorials/10_cpp/0_cmake/3_map/src/map.cpp
+iostream
+-
+iomanip
+-
+math.h
+-
+map
+-
+
